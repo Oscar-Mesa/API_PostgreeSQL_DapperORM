@@ -1,0 +1,11 @@
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Model.deps.json
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Model.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Model.pdb
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\refint\NetCoreAPIPostgreSQL.Model.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Model.pdb
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPosgretSQL.Model\obj\Debug\net8.0\ref\NetCoreAPIPostgreSQL.Model.dll

@@ -1,0 +1,15 @@
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Data.deps.json
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Data.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Data.pdb
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Model.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\bin\Debug\net8.0\NetCoreAPIPostgreSQL.Model.pdb
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreA.C48D3749.Up2Date
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\refint\NetCoreAPIPostgreSQL.Data.dll
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\NetCoreAPIPostgreSQL.Data.pdb
+C:\Users\Oscar\source\repos\NetCoreAPIPostgreSQL\NetCoreAPIPostgreSQL.Data\obj\Debug\net8.0\ref\NetCoreAPIPostgreSQL.Data.dll
