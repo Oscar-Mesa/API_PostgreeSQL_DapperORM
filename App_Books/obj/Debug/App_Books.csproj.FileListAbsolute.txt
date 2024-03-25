@@ -1,0 +1,13 @@
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.Properties.Resources.resources
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\App_Books\bin\Debug\App_Books.exe.config
+C:\Users\Oscar\source\repos\App_Books\bin\Debug\App_Books.exe
+C:\Users\Oscar\source\repos\App_Books\bin\Debug\App_Books.pdb
+C:\Users\Oscar\source\repos\App_Books\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oscar\source\repos\App_Books\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.frm_library.resources
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.csproj.Up2Date
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.exe
+C:\Users\Oscar\source\repos\App_Books\obj\Debug\App_Books.pdb
